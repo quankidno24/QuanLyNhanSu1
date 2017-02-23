@@ -1,1 +1,6 @@
+﻿<<<<<<< HEAD
 abcde...chien
+=======
+abcde
+asadas
+sơn lol
