@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 abcde...chien
 =======
 abcde
 asadas
 sơn lol
+=======
+abcd321212313e
+>>>>>>> origin/master
