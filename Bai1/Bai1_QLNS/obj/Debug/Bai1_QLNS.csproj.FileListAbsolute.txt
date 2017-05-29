@@ -1,0 +1,76 @@
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe.config
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\bin\Debug\Bai1_QLNS.pdb
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\bin\Debug\BUS.dll
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\bin\Debug\Value.dll
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\bin\Debug\BUS.pdb
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\bin\Debug\Value.pdb
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.csprojResolveAssemblyReference.cache
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormDangNhap.resources
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormMenu.resources
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormSua.resources
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormThem.resources
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormThongTin.resources
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormTimKiem.resources
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormXoa.resources
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.Properties.Resources.resources
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.csproj.GenerateResource.Cache
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.exe
+c:\users\chien\documents\visual studio 2015\Projects\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.pdb
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe.config
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.exe
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.pdb
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\bin\Debug\Bai1_QLNS.pdb
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.csprojResolveAssemblyReference.cache
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmDangNhap.resources
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmMenu.resources
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmSua.resources
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmThem.resources
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmThongTin.resources
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmTimKiem.resources
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmXoa.resources
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.Properties.Resources.resources
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\obj\Debug\Bai1_QLNS.csproj.GenerateResource.Cache
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\bin\Debug\BUS.dll
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\bin\Debug\DAO.dll
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\bin\Debug\BUS.pdb
+G:\DownloadThings\Bai1_QLNS\Bai1_QLNS\bin\Debug\DAO.pdb
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe.config
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.exe
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.pdb
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.pdb
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\BUS.dll
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\DAO.dll
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\BUS.pdb
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\DAO.pdb
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.csprojResolveAssemblyReference.cache
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmDangNhap.resources
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmMenu.resources
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmSua.resources
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmThem.resources
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmThongTin.resources
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmTimKiem.resources
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmXoa.resources
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.Properties.Resources.resources
+G:\DownloadThings\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe.config
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.exe
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.pdb
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.pdb
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmDangNhap.resources
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmMenu.resources
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmThem.resources
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormHuongDan.resources
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1_QuanLyNhanSu\Bai1_QLNS\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormSua.resources
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe.config
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.exe
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.pdb
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe.config
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.exe
+C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.pdb
