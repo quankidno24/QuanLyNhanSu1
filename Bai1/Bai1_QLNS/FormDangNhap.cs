@@ -31,7 +31,7 @@ namespace Bai1_QLNS
                 this.Close();
                 frmMenu Menu = new frmMenu();
                 Menu.StartPosition = FormStartPosition.CenterScreen;
-                Menu.ShowDialog();
+                Menu.ShowDialog(); ;
             }
         }
     }

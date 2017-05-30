@@ -126,6 +126,6 @@ namespace Bai1_QLNS
                 else
                     MessageBox.Show("Xóa không thành công.Xin kiểm tra lại!", "Failed!");
             }
-        }
+        };
     }
 }

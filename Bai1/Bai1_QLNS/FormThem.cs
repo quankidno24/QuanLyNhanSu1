@@ -22,7 +22,7 @@ namespace Bai1_QLNS
         string anh;
         public frmThem()
         {
-            InitializeComponent();
+            InitializeComponent(); ;
         }
         OpenFileDialog ofd = new OpenFileDialog();
         private void btnAnh_Click(object sender, EventArgs e)
