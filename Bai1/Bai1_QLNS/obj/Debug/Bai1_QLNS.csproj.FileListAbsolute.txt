@@ -74,3 +74,16 @@ C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu\Bai1\Bai1_QLNS\obj\Debug\Bai1_QL
 C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe.config
 C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.exe
 C:\Users\Dell\Desktop\Git-Test\Test-Git\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.pdb
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe.config
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.exe
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.pdb
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.exe
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\bin\Debug\Bai1_QLNS.pdb
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmDangNhap.resources
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormHuongDan.resources
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmMenu.resources
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.FormSua.resources
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.frmThem.resources
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.Properties.Resources.resources
+C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Bai1_QLNS\obj\Debug\Bai1_QLNS.csproj.GenerateResource.Cache

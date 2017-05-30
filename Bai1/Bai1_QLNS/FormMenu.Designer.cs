@@ -66,17 +66,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dgvViewAll = new System.Windows.Forms.DataGridView();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.txtTKTen = new System.Windows.Forms.TextBox();
-            this.chkBTenNV = new System.Windows.Forms.CheckBox();
-            this.txtTKMa = new System.Windows.Forms.TextBox();
-            this.chkBMaNV = new System.Windows.Forms.CheckBox();
             this.toolStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picAnh)).BeginInit();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvViewAll)).BeginInit();
-            this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
             // toolStrip1
@@ -481,9 +475,9 @@
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.dgvViewAll);
-            this.groupBox2.Location = new System.Drawing.Point(12, 119);
+            this.groupBox2.Location = new System.Drawing.Point(12, 30);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(494, 332);
+            this.groupBox2.Size = new System.Drawing.Size(494, 421);
             this.groupBox2.TabIndex = 59;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Danh sách NV ";
@@ -501,69 +495,15 @@
             this.dgvViewAll.Name = "dgvViewAll";
             this.dgvViewAll.ReadOnly = true;
             this.dgvViewAll.RowTemplate.Height = 24;
-            this.dgvViewAll.Size = new System.Drawing.Size(488, 311);
+            this.dgvViewAll.Size = new System.Drawing.Size(488, 400);
             this.dgvViewAll.TabIndex = 0;
             this.dgvViewAll.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvViewAll_CellClick);
-            // 
-            // groupBox3
-            // 
-            this.groupBox3.Controls.Add(this.txtTKTen);
-            this.groupBox3.Controls.Add(this.chkBTenNV);
-            this.groupBox3.Controls.Add(this.txtTKMa);
-            this.groupBox3.Controls.Add(this.chkBMaNV);
-            this.groupBox3.Location = new System.Drawing.Point(12, 31);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(494, 82);
-            this.groupBox3.TabIndex = 59;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Tìm kiếm";
-            // 
-            // txtTKTen
-            // 
-            this.txtTKTen.Enabled = false;
-            this.txtTKTen.Location = new System.Drawing.Point(370, 37);
-            this.txtTKTen.Name = "txtTKTen";
-            this.txtTKTen.Size = new System.Drawing.Size(100, 22);
-            this.txtTKTen.TabIndex = 3;
-            this.txtTKTen.TextChanged += new System.EventHandler(this.TextThayDoi);
-            // 
-            // chkBTenNV
-            // 
-            this.chkBTenNV.AutoSize = true;
-            this.chkBTenNV.Location = new System.Drawing.Point(254, 37);
-            this.chkBTenNV.Name = "chkBTenNV";
-            this.chkBTenNV.Size = new System.Drawing.Size(110, 21);
-            this.chkBTenNV.TabIndex = 2;
-            this.chkBTenNV.Text = "Theo tên NV";
-            this.chkBTenNV.UseVisualStyleBackColor = true;
-            this.chkBTenNV.CheckedChanged += new System.EventHandler(this.s_CheckedChanged);
-            // 
-            // txtTKMa
-            // 
-            this.txtTKMa.Enabled = false;
-            this.txtTKMa.Location = new System.Drawing.Point(131, 37);
-            this.txtTKMa.Name = "txtTKMa";
-            this.txtTKMa.Size = new System.Drawing.Size(100, 22);
-            this.txtTKMa.TabIndex = 1;
-            this.txtTKMa.TextChanged += new System.EventHandler(this.TextThayDoi);
-            // 
-            // chkBMaNV
-            // 
-            this.chkBMaNV.AutoSize = true;
-            this.chkBMaNV.Location = new System.Drawing.Point(16, 37);
-            this.chkBMaNV.Name = "chkBMaNV";
-            this.chkBMaNV.Size = new System.Drawing.Size(109, 21);
-            this.chkBMaNV.TabIndex = 0;
-            this.chkBMaNV.Text = "Theo mã NV";
-            this.chkBMaNV.UseVisualStyleBackColor = true;
-            this.chkBMaNV.CheckedChanged += new System.EventHandler(this.s_CheckedChanged);
             // 
             // frmMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1471, 457);
-            this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.toolStrip1);
@@ -579,8 +519,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.picAnh)).EndInit();
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvViewAll)).EndInit();
-            this.groupBox3.ResumeLayout(false);
-            this.groupBox3.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -625,10 +563,5 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.ToolStripMenuItem hướngDẫnToolStripMenuItem;
         private System.Windows.Forms.DataGridView dgvViewAll;
-        private System.Windows.Forms.GroupBox groupBox3;
-        private System.Windows.Forms.TextBox txtTKTen;
-        private System.Windows.Forms.CheckBox chkBTenNV;
-        private System.Windows.Forms.TextBox txtTKMa;
-        private System.Windows.Forms.CheckBox chkBMaNV;
     }
 }

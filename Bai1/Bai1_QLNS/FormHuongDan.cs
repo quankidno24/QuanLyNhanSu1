@@ -18,10 +18,29 @@ namespace Bai1_QLNS
         }
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
         {
-            string str = treeView1.SelectedNode.Text;
-            if (str == "Huong dan 1")
+            if (e.Node.Text == "Đăng nhập")
             {
-                webBrowser1.Navigate(@"D:\Visual Studio 2015\Projects\smart_store\index.html");
+                webBrowser1.Navigate(@"C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Guide\Dangnhap.html");
+            }
+            if (e.Node.Text == "Xem nhân viên")
+            {
+                webBrowser1.Navigate(@"C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Guide\Xemnhanvien.html");
+            }
+            if (e.Node.Text == "Thêm nhân viên")
+            {
+                webBrowser1.Navigate(@"C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Guide\Themnhanvien.html");
+            }
+            if (e.Node.Text == "Sửa nhân viên")
+            {
+                webBrowser1.Navigate(@"C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Guide\Suanhanvien.html");
+            }
+            if (e.Node.Text == "Xóa nhân viên")
+            {
+                webBrowser1.Navigate(@"C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Guide\Xoanhanvien.html");
+            }
+            if (e.Node.Text == "Xem thêm")
+            {
+                webBrowser1.Navigate(@"C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Guide\Xemthem.html");
             }
         }
     }

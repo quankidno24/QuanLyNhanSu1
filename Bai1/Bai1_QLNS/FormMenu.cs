@@ -127,37 +127,5 @@ namespace Bai1_QLNS
                     MessageBox.Show("Xóa không thành công.Xin kiểm tra lại!", "Failed!");
             }
         }
-
-        private void s_CheckedChanged(object sender, EventArgs e)
-        {
-            CheckBox chkB = (CheckBox)sender;
-            if (chkB.Name == "chkBMaNV")
-            {
-                if (chkB.Checked == true) txtTKMa.Enabled = true;
-                else { txtTKMa.Text = ""; txtTKMa.Enabled = false; }
-            }
-            else if (chkB.Name == "chkBTenNV")
-            {
-                if (chkB.Checked == true) txtTKTen.Enabled = true;
-                else { txtTKTen.Text = ""; txtTKTen.Enabled = false; }
-            }
-
-        }
-        private void TextThayDoi(object sender, EventArgs e)
-        {
-            TextBox textB = (TextBox)sender;
-            string query = "SELECT nv.MaNV,nv.Ten,pb.TenPB,cv.TenCV FROM NhanVien nv INNER JOIN PhongBan pb ON nv.MaPB = pb.MaPB INNER JOIN ChucVu cv ON nv.MaCV = cv.MaCV WHERE nv.MaNV like {0} AND nv.Ten like like N'%{1}%'";
-            //if()
-            query = string.Format(query, txtTKMa.Text, txtTKTen.Text);
-            DataTable dt = DataAccess.Query(query);
-            dgvViewAll.DataSource = null;
-            dgvViewAll.DataSource = dt;
-            dgvViewAll.ReadOnly = true;
-            dgvViewAll.AutoResizeColumns();
-            dgvViewAll.Columns["MaNV"].HeaderText = "Mã NV";
-            dgvViewAll.Columns["Ten"].HeaderText = "Tên NV";
-            dgvViewAll.Columns["TenPB"].HeaderText = "Phòng ban";
-            dgvViewAll.Columns["TenCV"].HeaderText = "Chức vụ";
-        }
     }
 }

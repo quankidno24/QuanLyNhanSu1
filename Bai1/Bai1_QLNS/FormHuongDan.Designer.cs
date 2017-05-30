@@ -28,8 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("Huong dan 1");
-            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("Huong dan 2");
+            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("Đăng nhập");
+            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("Xem nhân viên");
+            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("Thêm nhân viên");
+            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("Sửa nhân viên");
+            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("Xóa nhân viên");
+            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Xem thêm");
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.panel1 = new System.Windows.Forms.Panel();
             this.treeView1 = new System.Windows.Forms.TreeView();
@@ -57,16 +61,28 @@
             // 
             // treeView1
             // 
-            this.treeView1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.treeView1.Dock = System.Windows.Forms.DockStyle.Left;
             this.treeView1.Location = new System.Drawing.Point(0, 0);
             this.treeView1.Name = "treeView1";
             treeNode1.Name = "Node0";
-            treeNode1.Text = "Huong dan 1";
+            treeNode1.Text = "Đăng nhập";
             treeNode2.Name = "Node0";
-            treeNode2.Text = "Huong dan 2";
+            treeNode2.Text = "Xem nhân viên";
+            treeNode3.Name = "Node0";
+            treeNode3.Text = "Thêm nhân viên";
+            treeNode4.Name = "Node1";
+            treeNode4.Text = "Sửa nhân viên";
+            treeNode5.Name = "Node2";
+            treeNode5.Text = "Xóa nhân viên";
+            treeNode6.Name = "Node3";
+            treeNode6.Text = "Xem thêm";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
             treeNode1,
-            treeNode2});
+            treeNode2,
+            treeNode3,
+            treeNode4,
+            treeNode5,
+            treeNode6});
             this.treeView1.Size = new System.Drawing.Size(340, 711);
             this.treeView1.TabIndex = 0;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
