@@ -41,7 +41,7 @@ namespace Bai1_QLNS
             if (e.Node.Text == "Xem thêm")
             {
                 webBrowser1.Navigate(@"C:\Users\Dell\Desktop\Quanlynhansu\QuanLyNhanSu1\Bai1\Guide\Xemthem.html");
-            };
+            }
         }
     }
 }
