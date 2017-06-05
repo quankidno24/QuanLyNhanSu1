@@ -66,7 +66,7 @@ namespace Bai1_QLNS
             txtMaKT.Text = nv.MaKL.ToString();
             txtMaKL.Text = nv.MaKL.ToString();
             txtMaSBH.Text = nv.MaSBH.ToString();
-            rtbGhiChu.Text = nv.Ghichu.ToString(); ;
+            rtbGhiChu.Text = nv.Ghichu.ToString();
             cmbChucVu.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbPhongBan.DropDownStyle = ComboBoxStyle.DropDownList;
             cmbTDHV.DropDownStyle = ComboBoxStyle.DropDownList;
